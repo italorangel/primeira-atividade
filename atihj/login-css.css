@@ -1,0 +1,88 @@
+body{
+
+    background-color: rgb(14, 15, 15);
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 720px;
+}
+
+.centro{
+    display: flex;
+    background-color: brown;
+    width: 100%;
+    height: 719px;
+    flex-direction: row;
+
+}
+.width{
+    width: 430px;
+    height: 30px;
+    border-radius: 7px;
+}
+.gestao{
+    width: 232px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    margin-left: 150px;
+    margin-top: 80px;
+    color: white;
+}
+.botoes {
+    background-color: rgb(10, 61, 172);
+    border-radius: 30px;
+    width: 90px;
+    height: 35px;
+    border: 0px;
+    margin-right: 20px;
+    cursor: pointer;
+    color: white;
+}
+.dados{
+    width: 532px;
+    height: 200px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.link{
+    width: 150px;
+    height: 30px;
+    padding-bottom: 10px;
+    margin-left: 215px;
+
+ 
+    
+}
+.enviar{
+width: 50px;
+height: 50px;
+padding-bottom: 10px;
+margin-left: 230px;
+
+}
+.login{
+    width: 532px;
+    height: 725px;
+    background-color: rgb(0, 106, 255);
+   
+
+}
+
+.imagem{
+width: 65%;
+height: 725px;
+}
+
+.imagem img{
+    height: 100%;
+    width: 100%;
+
+}

@@ -1,0 +1,189 @@
+body{
+    background-color: rgb(0, 106, 255);
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 721px;
+}
+
+.centro{
+display: flex;
+flex-direction: column;
+width: 100%;
+    height: 721px;
+}
+
+.c11{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+.c1{
+
+    margin-top: 30px;
+    width: 1430px;
+    height: 30px;
+    margin-left: 70px;
+    margin-top: 20px;
+
+}
+.c2,.c3,.c4,.c5,.c6,.c7{
+    margin-left: 70px;
+    margin-top: 40px;
+     display: flex;
+    flex-direction: row;
+}
+.c2{
+    width: 1430px;
+    height: 30px;
+  
+}
+.rg{
+    width: 300px;
+    height: 20px;
+}
+.orgao{
+    width: 300px;
+    height: 20px;
+    margin-left: 300px;
+}
+.cpf{
+    width: 300px;
+    height: 20px;
+    margin-left: 145px;
+}
+.telefone{
+    width: 300px;
+    height: 20px;
+} 
+.email{
+    width: 300px;
+    height: 20px;
+    margin-left: 300px;
+}
+.curso{
+    width: 300px;
+    height: 20px;
+    margin-top: 4px;
+}
+.matricula{
+    width: 300px;
+    height: 20px;
+    padding-left: 495px;
+    margin-top: 4px;
+}
+.endereco{
+    width: 300px;
+    height: 20px;
+    margin-top: 4px;
+}
+.complemento{
+    width: 300px;
+    height: 20px;
+    margin-left: 495px;
+    margin-top: 4px;
+}
+
+.bairro{
+    width: 300px;
+    height: 20px;
+}
+.cep{
+    width: 300px;
+    height: 20px;
+    margin-left: 170px;
+}
+.municipio{
+    width: 300px;
+    height: 20px;
+    margin-left: 170px;
+}
+.width{
+    width: 1395px;
+    height: 30px;
+    border-radius: 5px;
+}
+.aa{
+    width: 550px;
+    height:30px ;
+    border-radius: 5px;
+    
+}
+.ab{
+    width: 400px;
+    height: 35px;
+    border: solid black 2px;
+    border-radius: 5px;
+}
+.ac{
+    width: 350px;
+    height: 30px;
+    border-radius: 5px;
+}
+.ad{
+    width: 550px;
+    height: 30px;
+    border-radius: 5px;
+}
+.ae{
+    width: 795px;
+    height: 30px;
+    border-radius: 5px;
+}
+.af{
+    width: 750px;
+    height: 35px;
+    border-radius: 5px;
+    border: solid black 2px;
+}
+.ag{
+    width: 600px;
+    height: 30px;
+    border-radius: 5px;
+}
+.ah{
+    width: 744px;
+    height: 30px;
+    border-radius: 5px;
+}
+.ai{
+    width: 600px;
+    height: 30px;
+    border-radius: 5px;
+}
+.aj{
+    width: 418px;
+    height: 30px;
+    border-radius: 5px;
+}
+.ak{
+    width: 418px;
+    height: 30px;
+    border-radius: 5px;
+}.al{
+    width: 455px;
+    height: 30px;
+    border-radius: 5px;
+}
+.botoes {
+    background-color: rgb(10, 61, 172);
+    border-radius: 5px;
+    width: 90px;
+    height: 35px;
+    border: 0px;
+    margin-right: 20px;
+    cursor: pointer;
+    color: white;
+}
+.envio{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 670px;
+}
+input:hover {
+    background-color: rgb(187, 237, 240);
+    color: black;
+}
